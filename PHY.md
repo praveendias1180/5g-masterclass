@@ -11,7 +11,7 @@
 - Resource Mapping
 - OFDM DAC RF
 
-# Orthogonal Frequency Division Multiplexing
+# Orthogonal Frequency Division Multiplexing OFDM
 
 https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing
 
