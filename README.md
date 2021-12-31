@@ -28,7 +28,16 @@ https://www.itu.int/
 # 5G Spectrum
 
 FR1: 410 MHz - 7,125 MHz (Sub6)
+
 FR2: 24,250 MHz - 52,600 MHz (mm)
+
+# 5G Protocol Stack
+
+![Protocol Stack](5g-protocol-stack.jpg)
+
+# MAC Scheduler
+
+![MAC Schedule](mac_scheduler.png)
 
 
 
