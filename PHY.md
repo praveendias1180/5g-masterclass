@@ -10,3 +10,12 @@
 - Antenna Mapping
 - Resource Mapping
 - OFDM DAC RF
+
+# Orthogonal Frequency Division Multiplexing
+
+https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing
+
+# Single Career FDMA
+
+https://en.wikipedia.org/wiki/Single-carrier_FDMA
+
