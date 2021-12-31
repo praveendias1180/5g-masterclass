@@ -1,0 +1,12 @@
+# PHY - Physical Layer
+
+- CRC - Cyclic Redundancy Check
+- LDPC Graph Selection
+- LDPC Coding
+- Rate Matching
+- Scrambling
+- Modulation
+- Layer Mapping
+- Antenna Mapping
+- Resource Mapping
+- OFDM DAC RF
