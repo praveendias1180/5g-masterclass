@@ -20,5 +20,9 @@ https://www.itu.int/
 
 ![3G to 6G](3g-6g.png)
 
+# 5G System
+
+![5G System](5g-system.png)
+
 
 
