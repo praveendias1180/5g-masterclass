@@ -12,3 +12,13 @@ https://www.itu.int/
 
 ![3GPP](3gpp-logo.svg)
 
+# ITU and 3GPP
+
+![ITU and 3GPP](itu-and-3gpp.png)
+
+# 3G to 6G
+
+![3G to 6G](3g-6g.png)
+
+
+
