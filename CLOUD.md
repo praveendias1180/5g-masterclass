@@ -10,4 +10,6 @@ SAAS - Software As A Service
 PAAS - Platform As A Service
 IAAS - Infrastructure As A Service
 
+# Network Function Virtualization
 
+https://en.wikipedia.org/wiki/Network_function_virtualization
