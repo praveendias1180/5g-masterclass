@@ -5,3 +5,9 @@
 # Virtualization
 
 Virtualization is the process of running a virtual instance of a computer system in a layer abstracted from the actual hardware.
+
+SAAS - Software As A Service
+PAAS - Platform As A Service
+IAAS - Infrastructure As A Service
+
+
