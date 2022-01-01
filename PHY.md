@@ -19,3 +19,7 @@ https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing
 
 https://en.wikipedia.org/wiki/Single-carrier_FDMA
 
+# RRC - Radio Resource Control
+
+# NAC - Non Access Stratum
+
