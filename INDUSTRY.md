@@ -9,3 +9,7 @@ The Telecom Infra Project (TIP) is a global community of companies and organizat
 https://www.o-ran.org/
 
 O-RAN ALLIANCE is Transforming the Radio Access Networks Industry Towards Open, Intelligent, Virtualized and Fully Interoperable RAN.
+
+# O-RAN Whitepapers
+
+https://www.o-ran.org/resources
