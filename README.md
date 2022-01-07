@@ -1,3 +1,9 @@
+# Certified
+
+![Certified](certificate.png)
+
+## Certificate Link
+https://www.udemy.com/certificate/UC-7b18a001-6965-4a48-9692-f877fea2925c/
 # 5G Masterclass
 
 ![5G](5g-logo.svg)
