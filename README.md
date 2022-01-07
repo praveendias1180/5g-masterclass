@@ -45,6 +45,15 @@ FR2: 24,250 MHz - 52,600 MHz (mm)
 
 ![MAC Schedule](mac_scheduler.png)
 
+# Notes
+
+- [Physical Layer](PHY.md)
+- [Core](CORE.md)
+- [Cloud](CLOUD.md)
+- [Call Flows](CALL_FLOWS.md)
+- [Slicing](SLICING.md)
+- [Industry](INDUSTRY.md)
+
 
 
 
