@@ -14,4 +14,10 @@ O-RAN ALLIANCE is Transforming the Radio Access Networks Industry Towards Open, 
 
 # O-RAN Whitepapers
 
+Improve innovation in 5G Network
+
 https://www.o-ran.org/resources
+
+- Open Front Haul
+- Near Real-Time RAN Intelligent Controller - E2 Interface - xApps
+- Working Groups - WG1:WG10
